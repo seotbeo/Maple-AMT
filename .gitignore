@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Dataset & generated features
+dataset/
+dataset_raw/
+checkpoints/
+model/
+*.npz
+*.wav
+*.mp3
+*.mid
+*.midi
