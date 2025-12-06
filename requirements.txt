@@ -1,0 +1,5 @@
+numpy==1.26.3
+torch==2.1.2
+tqdm==4.67.1
+librosa==0.11.0
+pretty-midi==0.2.11
