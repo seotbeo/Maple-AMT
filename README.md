@@ -5,11 +5,11 @@ Automatic music transcription model for Maplestory BGM.
 ## Demo
  - Welcome to Ramuramu Valley
    - [Original](https://youtu.be/lg-bGpvPApw)
-   - [Transcripted](https://youtu.be/W56oerxcmAA)
+   - [Transcribed](https://youtu.be/W56oerxcmAA)
 
  - Somewhere Beyond the Cliff
    - [Original](https://youtu.be/Qbx40Hd7rsE)
-   - [Transcripted](https://youtu.be/lWZoHvx3P50)
+   - [Transcribed](https://youtu.be/lWZoHvx3P50)
 
 
 ## Models
